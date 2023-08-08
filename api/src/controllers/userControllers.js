@@ -2,20 +2,6 @@ const { User } = require('../db.js');
 const {  ManagementClient } = require ("auth0")
 require('dotenv').config();
 
-const auth00 = new ManagementClient({
-  domain: "dev-jzsyp78gzn6fdoo4.us.auth0.com",
-  clientId: "bZrOYlhECm7soRu6DG6b8Dqf2pOecaoZ",
-  // clientSecret: process.env.AUTH0_CLIENT_SECRET,
-  scope: "read:users"
-});
-
-const getAllUsers = async () => {
-  try{
-    return await auth00.users.getAll();
-  } catch (error) {
-    throw new Error(message)
-  }
-}
 
 const getUsers = async (req, res) => {
     try {
