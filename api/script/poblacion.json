@@ -1,0 +1,639 @@
+[
+
+{
+    "nombreproducto": "GABINETE XFX YOROI GC-03HE 6 COOLERS RGB",
+    "descproducto": "Gabinetes de alta gama inspirados en la armadura Samurái que lleva su nombre (Yoroi). Ésta línea de productos es la evolución de la gama Keiko.",
+    "fotoprinc": "https://www.fullh4rd.com.ar/img/productos/6/gabinete-xfx-yoroi-gc03he-6-coolers-rgb-0.jpg",
+    "precioproducto": 90,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "gabinetes",
+      "marca": "XFX YOROI"
+  },
+  {
+    "nombreproducto": "Nfortec Caelum White RGB Cristal Templado USB 3.0",
+    "descproducto": "La nueva torre gaming RGB Nfortec Caelum sorprende por su frontal mallado y una parte inferior del frontal cerrada que le da un toque híbrido entre ambos diseño",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/30/308260/115-nfortec-caelum-white-rgb-cristal-templado-usb-30.jpg",
+    "precioproducto": 60,
+    "disponibproducto": 10,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "gabinetes",
+      "marca": "Nfortec"
+  },{
+    "nombreproducto": "Tempest Mirage RGB Mesh Torre ATX Blanca",
+    "descproducto": "Después de lanzar la impresionante torre Mirage, con diseño Mesh en su frontal y unas medidas que te permitirán instalar prácticamente cualquier componente.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1056/10563947/1622-tempest-mirage-rgb-mesh-torre-atx-blanca.jpg",
+    "precioproducto": 80,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "gabinetes",
+      "marca": "Tempest"
+  },{
+    "nombreproducto": "Forgeon Arcanite ARGB Mesh Torre ATX Negra",
+    "descproducto": "Dispone de una amplia capacidad para almacenar sus elementos junto a 4 ventiladores RGB que te permite elegir entre diferentes efectos de colores.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/43/433834/1534-forgeon-arcanite-argb-mesh-cristal-templado-usb-32-negra.jpg",
+    "precioproducto": 180,
+    "disponibproducto": 2,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "gabinetes",
+      "marca": "Forgeon"
+  },{
+    "nombreproducto": "Corsair iCUE 5000X RGB QL Edition Cristal Templado USB 3.1 Blanca",
+    "descproducto": "incluye cuatro ventiladores QL120 RGB preinstalados y un iCUE Lighting Node CORE, en un impresionante chasis 5000X RGB completamente blanco.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/82/823373/1687-corsair-icue-5000x-rgb-ql-edition-cristal-templado-usb-31-blanca-9821f86f-cde0-4c09-a7cc-0dc5b699b011.jpg",
+    "precioproducto": 300,
+    "disponibproducto": 1,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "Gabinetes",
+      "marca": "XFX YOROI"
+  },
+  
+  
+
+
+  {
+    "nombreproducto": "MSI B650 GAMING PLUS WIFI",
+    "descproducto": "B650 GAMING PLUS WIFI está diseñado con toneladas de conectividad, herramientas flexibles y una conveniente solución Wi-Fi con versión de memoria DDR5.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10733728/149-msi-b650-gaming-plus-wifi.jpg",
+    "precioproducto": 190,
+    "disponibproducto": 9,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "placa base",
+      "marca": "MSI"
+  },{
+    "nombreproducto": "Asus Prime X570-P",
+    "descproducto": "Compatible con los últimos procesadores Ryzen, que incluyen más núcleos y ancho de banda, suministro de energía estable y funciones de refrigeración intuitivas.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/21/217717/1.jpg",
+    "precioproducto": 200,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "placa base",
+      "marca": "Asus"
+  },{
+    "nombreproducto": "Gigabyte Z690 AORUS ELITE DDR4",
+    "descproducto": "entrega de energía más robusta y diseño térmico dominante, glorificado con la tecnología de overclocking de memoria completa para coronar su PC con el mejor rendimiento.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/61/616122/1931-gigabyte-z690-aorus-elite-ddr4.jpg",
+    "precioproducto": 250,
+    "disponibproducto": 50,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "placa base",
+      "marca": "Gigabyte"
+  },{
+    "nombreproducto": "Gigabyte Z790 AORUS ELITE AX",
+    "descproducto": "solución de energía mejorada, los últimos estándares de almacenamiento y una conectividad excepcional",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1064/10641931/14-gigabyte-z790-aorus-elite-ax.jpg",
+    "precioproducto": 300,
+    "disponibproducto": 40,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "placa base",
+      "marca": "Gigabyte"
+  },{
+    "nombreproducto": "Asus PRIME Z690-A",
+    "descproducto": "construcción elegante y de aspecto futurista con elementos de diseño inspirados en el transbordador espacial.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/61/616183/1910-asus-prime-z690-a.jpg",
+    "precioproducto": 300,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "placa base",
+      "marca": "Asus"
+  },
+  
+  
+  
+  
+  {
+    "nombreproducto": "AMD Ryzen Threadripper PRO 5965WX 3.8GHz/4.5GHz",
+    "descproducto": "frecuencias más altas y una arquitectura de caché L3 mejorada permite a los usuarios hacer frente al trabajo más exigentes.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1066/10661477/1600-amd-ryzen-threadripper-pro-5965wx-38ghz-45ghz.jpg",
+    "precioproducto": 500,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "procesadores",
+      "marca": "AMD"
+  },{
+    "nombreproducto": "Intel Xeon Gold 5320 2.2GHz Box",
+    "descproducto": "Gabinetes de alta gama inspirados en la armadura Samurái que lleva su nombre (Yoroi). Ésta línea de productos es la evolución de la gama Keiko.",
+    "fotoprinc": "https://www.fullh4rd.com.ar/img/productos/6/gabinete-xfx-yoroi-gc03he-6-coolers-rgb-0.jpg",
+    "precioproducto": 550,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "procesadores",
+      "marca": "Intel"
+  },{
+    "nombreproducto": "AMD Ryzen 7 5800X 3.8GHz",
+    "descproducto": "El procesador que permite disfrutar una experiencia de juego de élite. Ocho núcleos optimizados para computadoras de juego con alto FPS.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/32/328473/168-amd-ryzen-7-5800x-38ghz.jpg",
+    "precioproducto": 150,
+    "disponibproducto": 10,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "procesadores",
+      "marca": "AMD"
+  },{
+    "nombreproducto": "Intel Core i7-13700K 3.4 GHz Box",
+    "descproducto": "Con un mayor número de núcleos, estos procesadores continúan utilizando la arquitectura híbrida de rendimiento de Intel para optimizar tus videojuegos.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1057/10573126/1196-intel-core-i7-13700k-34-ghz-box.jpg",
+    "precioproducto": 140,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "procesadores",
+      "marca": "Intel"
+  },{
+    "nombreproducto": "Intel Core i5-13600KF 3.5 GHz Box",
+    "descproducto": "Libera la potencia del rendimiento de próximo nivel con las ventajas de los procesadores Intel® Core™ de 13 generación para equipos de sobremesa.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1057/10573119/1303-intel-core-i5-13600kf-35-ghz-box.jpg",
+    "precioproducto": 100,
+    "disponibproducto": 20,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "procesadores",
+      "marca": "Intel"
+  },
+  
+  
+  
+  
+  
+  {
+    "nombreproducto": "Sandisk G-Raid 2 36TB Thunderbolt 3/USB-C/HDMI",
+    "descproducto": "disco duro dual de clase empresarial de 7200 RPM de alto rendimiento que cuenta con Thunderbolt 3, USB-C y conectividad HDMI para una máxima flexibilidad.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1057/10578506/1967-sandisk-g-raid-2-36tb-thunderbolt-3-usb-c-hdmi.jpg",
+    "precioproducto": 800,
+    "disponibproducto": 8,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "discos duros",
+      "marca": "Sandisk"
+  },{
+    "nombreproducto": "Kingston NV2 1TB SSD PCIe 4.0 NVMe Gen 4x4",
+    "descproducto": "alcanza velocidades de hasta 3.500/2.800 MB/s1, con menor consumo eléctrico y generando menos calor, optimiza el rendimiento de su sistema y mejora su valor sin sacrificar nada",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1057/10578300/1498-kingston-nv2-1tb-ssd-pcie-40-nvme-gen-4x4.jpg",
+    "precioproducto": 50,
+    "disponibproducto": 40,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "discos duros",
+      "marca": "Kingston"
+  },{
+    "nombreproducto": "Samsung 870 QVO SSD 1TB SATA3",
+    "descproducto": "El 870 QVO es lo último de la segunda generación de Samsung. El SSD QLC es el tipo de SSD de mayor capacidad, ya que proporciona hasta 8 TB de almacenamiento",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/32/322021/1157-samsung-870-qvo-ssd-1tb-sata3.jpg",
+    "precioproducto": 70,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "discos duros",
+      "marca": "Samsung"
+  },{
+    "nombreproducto": "Kioxia EXCERIA 1TB SSD NVMe M.2 2280",
+    "descproducto": "KIOXIA EXCERIA SSD Series está diseñada para mejorar su experiencia móvil o PC y ofrecer un rendimiento equilibrado y un valor que transformará su sistema.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/28/288169/kioxia-exceria-1tb-ssd-nvme-m2-2280.jpg",
+    "precioproducto": 30,
+    "disponibproducto": 100,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "discos duros",
+      "marca": "Kioxia"
+  },{
+    "nombreproducto": "WD BLACK SN770 1TB SSD PCIe Gen4 NVMe",
+    "descproducto": "Este disco se ha diseñado específicamente para jugar y cuenta con la interfaz PCIe® Gen4, que ofrece una velocidad impresionante de hasta 5150 MB/s (en los modelos de 1 TB y 2 TB).",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1006/10060346/1242-wd-black-sn770-1tb-nvme-ssd.jpg",
+    "precioproducto": 30,
+    "disponibproducto": 50,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "discos duros",
+      "marca": "WD"
+  },
+  
+  
+  
+  
+  {
+    "nombreproducto": "Asus Dual GeForce RTX 3060 OC Edition V2 12GB GDDR6",
+    "descproducto": "Disfruta de los mayores éxitos de ventas de hoy como nunca antes con la fidelidad visual del trazado de rayos en tiempo real y el rendimiento definitivo de DLSS con tecnología de IA.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/41/418588/160-asus-dual-geforce-rtx-3060-oc-edition-v2-12gb-gddr6.jpg",
+    "precioproducto": 300,
+    "disponibproducto": 60,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "tarjetas graficas",
+      "marca": "Asus"
+  },{
+    "nombreproducto": "Gigabyte GeForce RTX 4070 Windforce OC 12 GB GDDR6X DLSS3",
+    "descproducto": "la latencia más baja, la mejor capacidad de respuesta para la máxima ventaja competitiva,tiempos de reacción más rápidos y la mejor precisión de objetivo para los juegos competitivos.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1070/10706592/1556-gigabyte-geforce-rtx-4070-windforce-oc-12gb-gddr6x-dlss3.jpg",
+    "precioproducto": 700,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "tarjetas graficas",
+      "marca": "Gigabyte"
+  },{
+    "nombreproducto": "MSI GeForce RTX 3070 Ti VENTUS 3X OC 8GB GDDR6X",
+    "descproducto": "con RT Cores y Tensor Cores mejorados, multiprocesadores de transmisión y memoria G6X ultrarrápida, le brinda la potencia para los juegos más exigentes.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/40/408347/1571-msi-geforce-rtx-3070-ti-ventus-3x-oc-8gb-gddr6x.jpg",
+    "precioproducto": 600,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "tarjetas graficas",
+      "marca": "MSI"
+  },{
+    "nombreproducto": "Zotac Gaming Geforce RTX 3070 Twin Edge OC LHR 8GB GDDR6",
+    "descproducto": "la ZOTAC GAMING GeForce RTX 3070 Twin Edge OC LHR da lugar a juegos amplificados con alta fidelidad.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/42/422928/1641-zotac-gaming-geforce-rtx-3070-twin-edge-oc-lhr-8gb-gddr6.jpg",
+    "precioproducto": 500,
+    "disponibproducto": 20,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "tarjetas graficas",
+      "marca": "Zotac"
+  },{
+    "nombreproducto": "Gigabyte GeForce RTX 3070 Ti GAMING OC 8GB GDDR6X",
+    "descproducto": " Acapara la atención de todos gracias a unos gráficos increíbles y a una transmisión en directo fluida y sin cortes",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/41/412000/1718-gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-gddr6x.jpg",
+    "precioproducto": 700,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "tarjetas graficas",
+      "marca": "Gigabyte"
+  },
+  
+  
+  
+  
+  {
+    "nombreproducto": "HyperX Predator DDR4 3000MHz 32GB CL16",
+    "descproducto": "Incrementa los fotogramas por segundo, mantén fluida la difusión de las secuencias",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/60/601342/1769-hyperx-predator-ddr4-3000mhz-32gb-cl16.jpg",
+    "precioproducto": 350,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "memorias RAM",
+      "marca": "HyperX"
+  },{
+    "nombreproducto": "Corsair Vengeance LPX DDR4 3200MHz PC4-25600 32GB 2x16GB CL16",
+    "descproducto": "está diseñada para overclocking de alto rendimiento, el disipador térmico está hecho de aluminio puro para una disipación de calor más rápida",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/35/351290/3744-corsair-vengeance-lpx-ddr4-3200mhz-pc4-25600-32gb-2x16gb-cl16-mejor-precio.jpg",
+    "precioproducto": 70,
+    "disponibproducto": 100,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "memorias RAM",
+      "marca": "Corsair"
+  },{
+    "nombreproducto": "Kingston FURY Beast DDR4 3200 MHz 16GB 2x8GB CL16",
+    "descproducto": "ofrece un potente aumento de rendimiento para juegos, edición de vídeo y renderización con velocidades de hasta 3733 MHz.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/43/432664/1392-kingston-fury-beast-ddr4-3200-mhz-16gb-2x8gb-cl16.jpg",
+    "precioproducto": 40,
+    "disponibproducto": 60,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "memorias RAM",
+      "marca": "Kingston"
+  },{
+    "nombreproducto": "G.Skill Trident Z RGB (AMD) DDR4 3200 PC4-25600 16GB 2x8GB CL16",
+    "descproducto": "Estos kits optimizan el rendimiento de las plataformas de nueva generación, con la ventaja añadida de un alto potencial de overclocking",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/17/174262/1.jpg",
+    "precioproducto": 70,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "memorias RAM",
+      "marca": "G.Skill"
+  },{
+    "nombreproducto": "Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16",
+    "descproducto": " El esparcidor de calor está construido con un material metálico más ligero, delgado y de alta calidad.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/21/217575/1.jpg",
+    "precioproducto": 50,
+    "disponibproducto": 80,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "memorias RAM",
+      "marca": "Team Group Delta"
+  },
+  
+  
+  
+  {
+    "nombreproducto": "Sony INZONE M3 27 Edge LED IPS FullHD 240Hz G-Sync Compatible",
+    "descproducto": "La altísima frecuencia de actualización te pone un paso por delante de tus enemigos y te permite avanzar sin pérdidas de fluidez.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1064/10645970/1181-sony-inzone-m3-27-edge-led-ips-fullhd-240hz-g-sync-compatible.jpg",
+    "precioproducto": 700,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "monitores",
+      "marca": "Sony"
+  },{
+    "nombreproducto": "LG Ultragear 24GQ50F-B 24 LED FullHD 165Hz FreeSync Premium",
+    "descproducto": "la mejor calidad de imagen y la máxima velocidad de respuesta, se adapta a las más altas exigencias de tus videojuegos.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1065/10658701/1132-lg-ultragear-24gq50f-b-24-led-fullhd-165hz-freesync-premium.jpg",
+    "precioproducto": 200,
+    "disponibproducto": 60,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "monitores",
+      "marca": "LG"
+  },{
+    "nombreproducto": "PcCom Elysium GO2780CV 27 LED FullHD 165Hz Freesync Curva",
+    "descproducto": "experiencia más inversiva a través de su curvatura 1800 R, resolución Full HD (1920x1080), panel VA de 27 y un amplio ángulo de visión de 178 º.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1046/10465191/118-pccom-elysium-go2780cv-27-led-fullhd-165hz-freesync-curva-comprar.jpg",
+    "precioproducto": 150,
+    "disponibproducto": 40,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "monitores",
+      "marca": "PcCom"
+  },{
+    "nombreproducto": "Nilox NXM24FHD01 24 LED FullHD 75Hz",
+    "descproducto": "Nilox ofrece el monitor de 24 con pantalla LED sin marco, puertos HDMI - VGA, resolución FULL HD y tecnología Low Blue Light.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1002/10021459/1178-nilox-nxm24fhd01-24-led-fullhd-75hz.jpg",
+    "precioproducto": 90,
+    "disponibproducto": 20,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "monitores",
+      "marca": "Nilox"
+  },{
+    "nombreproducto": "MSI Optix G24C4 23.6 LED FullHD 144Hz Freesync Curva",
+    "descproducto": "Gabinetes de alta gama inspirados en la armadura Samurái que lleva su nombre (Yoroi). Ésta línea de productos es la evolución de la gama Keiko.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/23/231904/1369-msi-optix-g24c4-236-led-fullhd-144hz-freesync-curva-comprar.jpg",
+    "precioproducto": 150,
+    "disponibproducto": 5,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "monitores",
+      "marca": "MSI"
+  },
+  
+  
+  
+  
+  {
+    "nombreproducto": "JBL Quantum 400 Auriculares Gaming Multiplataforma USB Negro",
+    "descproducto": "incorporan un micrófono vocal de asta para interacciones multijugador, además de un dial de equilibrio de volumen con certificación DISCORD.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/34/343600/1292-jbl-quantum-400-auriculares-gaming-multiplataforma-usb-negro.jpg",
+    "precioproducto": 85,
+    "disponibproducto": 7,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "auriculares",
+      "marca": "JBL"
+  },{
+    "nombreproducto": "Logitech G435 LIGHTSPEED Auriculares Gaming Inalámbricos Negros",
+    "descproducto": "La conectividad inalámbrica LIGHTSPEED y la conectividad Bluetooth de baja latencia te permiten jugar y hablar en PC, PS5/PS4, smartphones, etc.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/57/577538/1197-logitech-g435-lightspeed-auriculares-gaming-inalambricos-negros.jpg",
+    "precioproducto": 68,
+    "disponibproducto": 15,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "auriculares",
+      "marca": "Logitech"
+  },{
+    "nombreproducto": "Razer Kraken X Lite Auriculares Gaming 7.1 Multiplataforma",
+    "descproducto": "Comodidad ultraligera para jugar sin parar. Nunca más volverás a estar agotado por el peso de tus auriculares. ",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/23/232005/razer-kraken-x-lite-2019-render-v02.jpg",
+    "precioproducto": 30,
+    "disponibproducto": 90,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "auriculares",
+      "marca": "Razer"
+  },{
+    "nombreproducto": "HyperX Cloud Flight Auriculares Gaming Inalámbricos",
+    "descproducto": "Escapa de los límites de las conexiones por cable y deambula libremente con los HyperX Cloud Flight™ inalámbrico.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1004/10042294/1601-hyperx-cloud-flight-auriculares-gaming-inalambricos.jpg",
+    "precioproducto": 104,
+    "disponibproducto": 6,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "auriculares",
+      "marca": "HyperX"
+  },{
+    "nombreproducto": "Sony INZONE H3 Auriculares Gaming 7.1 PC/PS5 Blanco",
+    "descproducto": "Reacciona antes que nadie con una detección precisa de los objetivos. Escucha al enemigo antes de que te vea. ",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1042/10422245/1260-sony-inzone-h3-auriculares-gaming-71-pc-ps5-blanco.jpg",
+    "precioproducto": 80,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "auriculares",
+      "marca": "Sony"
+  },
+  
+  
+  
+  
+  
+  
+  {
+    "nombreproducto": "Valk Nyx Silla Gaming Tela Roja Rubí",
+    "descproducto": "La mejor comididad para tener el rendimiento",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1063/10635821/1808-valk-nyx-silla-gaming-tela-roja-rubi-7d0e5df2-0da5-4965-b11f-e0d882428df7.jpg",
+    "precioproducto": 220,
+    "disponibproducto": 4,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "sillas",
+      "marca": "Valk"
+  },{
+    "nombreproducto": "Tempest Conquer Silla Gaming Azul",
+    "descproducto": "perfecta para aquellos jugadores exigentes que buscan lo mejor en cada uno de sus componentes",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/23/232325/1956-tempest-conquer-silla-gaming-azul-mejor-precio.jpg",
+    "precioproducto": 135,
+    "disponibproducto": 1,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "sillas",
+      "marca": "Tempest"
+  },{
+    "nombreproducto": "Forgeon Acrux Leather Silla Gaming Negra",
+    "descproducto": "Una silla de piel sintética de alta calidad que te proporciona una mejor temperatura frente a las diferentes estaciones del año.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/43/433694/1668-forgeon-acrux-leather-silla-gaming-negra-comprar.jpg",
+    "precioproducto": 350,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "sillas",
+      "marca": "Forgeon"
+  },{
+    "nombreproducto": "Newskill Kitsune Zephyr Series Silla Gaming acabada en Tela Gris/Rojo",
+    "descproducto": "la nueva versión de silla para gamers basada en el modelo Kitsune original. Zephyr llega para dar un acabado diferente a uno de los modelos más querido por nuestros fans",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/34/346584/1601-newskill-kitsune-zephyr-series-silla-gaming-acabada-en-tela-gris-rojo-foto.jpg",
+    "precioproducto": 130,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "sillas",
+      "marca": "Newskill"
+  },{
+    "nombreproducto": "Corsair TC100 RELAXED Fabric Silla Gaming Negra",
+    "descproducto": "Gabinetes de alta gama inspirados en la armadura Samurái que lleva su nombre (Yoroi). Ésta línea de productos es la evolución de la gama Keiko.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1064/10644510/1149-corsair-tc100-relaxed-fabric-silla-gaming-negra-8fd1dd42-dcc9-498f-b1bb-256522ffaa67.jpg",
+    "precioproducto": 215,
+    "disponibproducto": 2,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "sillas",
+      "marca": "Corsair"
+  },
+  
+  
+  
+  
+  {
+    "nombreproducto": "Logitech MX Master 3S Performance Ratón Inalámbrico 8000 DPI Grafito",
+    "descproducto": "Presentamos Logitech MX Master 3S, un ratón icónico reinventado para ofrecer máxima sensación táctil, rendimiento y fluidez.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1034/10347976/1382-logitech-mx-master-3s-performance-raton-inalambrico-8000-dpi-grafito-9205e5c4-4126-47ed-aa39-26ad1df14282.jpg",
+    "precioproducto": 103,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "mouse",
+      "marca": "Logitech"
+  },{
+    "nombreproducto": "Tempest X8 Keeper RGB Ratón Gaming 10.000 DPI Negro",
+    "descproducto": "Está preparado para largas sesiones de juegos gracias a sus cuatro botones laterales te permitirá tener las funcionalidades extra",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/40/409500/1750-tempest-x8-keeper-rgb-raton-gaming-10000dpi.jpg",
+    "precioproducto": 17,
+    "disponibproducto": 45,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "mouse",
+      "marca": "Tempest"
+  },{
+    "nombreproducto": "Forgeon Vendetta Ratón Gaming RGB 16000DPI Negro",
+    "descproducto": "te encuentras ante el ratón más competente del mercado. Este mouse ha sido elegido el mejor mouse gaming en cuanto a su diseño.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/43/433870/1990-forgeon-vendetta-raton-gaming-rgb-16000dpi-negro-comprar.jpg",
+    "precioproducto": 85,
+    "disponibproducto": 0,
+      "dispoboleano": false,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "mouse",
+      "marca": "Forgeon"
+  },{
+    "nombreproducto": "MSI Clutch GM08 Ratón Gaming 4200DPI",
+    "descproducto": "está diseñado para el gaming con su forma sólida y funciones únicas. Con un preciso Sensor PAW-3519 óptico de hasta 3200 DPI.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/32/324194/1322-msi-clutch-gm08-raton-gaming-4200dpi-caracteristicas.jpg",
+    "precioproducto": 14,
+    "disponibproducto": 30,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "mouse",
+      "marca": "MSI"
+  },{
+    "nombreproducto": "Razer Viper Ultimate Ratón Gaming Inalámbrico 20000DPI + Base de Carga",
+    "descproducto": "Te presentamos el mouse para juegos con tecnología inalámbrica ultrarrápida diseñada para ofrecerte un rendimiento profesional.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/24/244389/a29.jpg",
+    "precioproducto": 130,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "mouse",
+      "marca": "Razer"
+  },
+
+
+  {
+    "nombreproducto": "Newskill Chronos TKL Teclado Mecánico Gaming RGB Switch Red",
+    "descproducto": "Chronos TKL se une a la familia de teclados de Newskill, con su tamaño compacto y ligero, perfecto para aprovechar al máximo tu espacio.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/1001/10013664/1610-newskill-chronos-tkl-teclado-mecanico-gaming-rgb-switch-red-1146bbfb-b276-4e17-9d44-359ead3cbf84.jpg",
+    "precioproducto": 55,
+    "disponibproducto": 34,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "teclado",
+      "marca": "Newskill"
+  },{
+    "nombreproducto": "Owlotech Essential K100 Teclado Negro",
+    "descproducto": "Un teclado que nos ofrece unas medidas adaptadas a ti centradas en tu comodidad y buscando siempre la mayor rapidez en tu trabajo.",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/43/433687/148-owlotech-essential-k100-teclado-negro-comprar.jpg",
+    "precioproducto": 5,
+    "disponibproducto": 75,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "teclado",
+      "marca": "Owlotech"
+  },{
+    "nombreproducto": "Logitech G915 TKL Teclado Mecánico Gaming Inalámbrico RGB Switch GL Clic Perceptible Layout USA",
+    "descproducto": "Con un diseño para máximo rendimiento, los interruptores mecánicos de Logitech G ofrecen diferentes opciones para adaptarse a tu estilo de juego",
+    "fotoprinc": "https://thumb.pccomponentes.com/w-530-530/articles/83/837478/1383-logitech-g915-tkl-teclado-mecanico-gaming-inalambrico-rgb-switch-gl-clic-perceptible-layout-usa.jpg",
+    "precioproducto": 400,
+    "disponibproducto": 3,
+      "dispoboleano": true,
+    "borrador": false,
+    "calificacionproducto": [4, 5, 3],
+    "categoria": "teclado",
+      "marca": "Logitech"
+  }
+
+]

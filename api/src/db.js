@@ -50,7 +50,7 @@ fs.readdirSync(path.join(__dirname, '/models'))
     modelDefiners.push(require(path.join(__dirname, '/models', file)));
   });
 
-  modelDefiners.forEach(model => model(sequelize));
+ modelDefiners.forEach(model => model(sequelize));
 
   let entries = Object.entries(sequelize.models);
   let capsEntries = entries.map((entry) => [entry[0][0].toUpperCase() + entry[0].slice(1), entry[1]]);
@@ -58,31 +58,16 @@ fs.readdirSync(path.join(__dirname, '/models'))
   //Define las relaciones entre los modelos
   sequelize.models = Object.fromEntries(capsEntries);
   
-    // const { Carrocompra, Categoria, Ordencompra, Usuario, Producto, Fotoprod, Review,Oc,Detalleoc } = sequelize.models;
+    const {  User, Product, Order, Review } = sequelize.models;
   
-    // Carrocompra.belongsTo(Usuario, { foreignKey: 'idusuario' });
-    // Usuario.hasOne(Carrocompra, { foreignKey: 'idusuario' });
-  
-    // Carrocompra.belongsToMany(Producto, { through: 'prodxcarro', foreignKey: 'idcarrocompra' });
-    // Producto.belongsToMany(Carrocompra, { through: 'prodxcarro', foreignKey: 'idproducto' });
-  
-    // Ordencompra.belongsTo(Usuario, { foreignKey: 'idusuario' });
-    // Usuario.hasMany(Ordencompra, { foreignKey: 'idusuario' });
-  
-    // Ordencompra.belongsToMany(Producto, { through: 'prodxoc', foreignKey: 'idordencompra' });
-    // Producto.belongsToMany(Ordencompra, { through: 'prodxoc', foreignKey: 'idproducto' });
-  
-    // Producto.hasMany(Review, { foreignKey: 'productoId' });
-    // Review.belongsTo(Producto, { foreignKey: 'productoId' });
-  
-    // Producto.hasMany(Fotoprod, { foreignKey: 'idproducto' });
-    // Fotoprod.belongsTo(Producto, { foreignKey: 'idproducto' });
-    
-    // Producto.belongsToMany(Categoria, { through: 'catprod', foreignKey: 'categoriaId'});
-    // Categoria.belongsToMany(Producto, { through: 'catprod', foreignKey: 'idproducto'})
-    
-  // Usuario.hasMany(Review, {foreignKey: 'usuarioId'})
-  // Review.belongsTo(Usuario, {foreignKey: 'usuarioId'});
+  User.belongsToMany(Product, { through: 'user_product' })
+  Product.belongsToMany(User, {through: 'user_product'})
+
+  User.hasMany(Order, { foreignKey: 'userId', as: 'orders' });
+Order.belongsTo(User, { foreignKey: 'userId', as: 'user' });
+
+Product.hasMany(Review, { foreignKey: 'productId', as: 'reviews' });
+Review.belongsTo(Product, { foreignKey: 'productId', as: 'product' });
   
 // Oc.hasMany(Detalleoc, {
 //   foreignKey: 'idoc',
@@ -91,11 +76,11 @@ fs.readdirSync(path.join(__dirname, '/models'))
 //   foreignKey: 'idoc',
 // });
     
-// Sincroniza los modelos con la base de datos y establece las relaciones
+// //Sincroniza los modelos con la base de datos y establece las relaciones
 // sequelize.sync({ force: false })
 //   .then(() => {
 //     console.log('Tablas sincronizadas correctamente');
-//     initializeRelations();
+//     //initializeRelations();
 //     // Aquí puedes continuar con el resto de tu lógica de la aplicación
 //   })
 //   .catch(error => {
